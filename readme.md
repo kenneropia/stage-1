@@ -11,15 +11,15 @@ A RESTful API that returns mathematical properties and fun facts about numbers.
 
 ## Requirements
 
-- Node.js >= 14
-- TypeScript >= 4.5
+- Node.js
+- TypeScript
 - npm or yarn
 
 ## Installation
 
 ```bash
 git clone https://github.com/kenneropia/stage-1
-cd number-classifier-api
+cd stage-1
 npm install
 ```
 
@@ -39,7 +39,6 @@ npm run dev
 
 Production:
 ```bash
-npm run build
 npm start
 ```
 
@@ -70,7 +69,7 @@ Get mathematical properties of a number.
 
 ```json
 {
-    "number": "invalid",
+    "number": "alphabet",
     "error": true
 }
 ```
