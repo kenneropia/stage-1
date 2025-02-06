@@ -18,7 +18,7 @@ A RESTful API that returns mathematical properties and fun facts about numbers.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/number-classifier-api
+git clone https://github.com/kenneropia/stage-1
 cd number-classifier-api
 npm install
 ```
