@@ -49,7 +49,7 @@ npm start
 
 Get mathematical properties of a number.
 
-- **URL**: `/api/classify-number`
+- **URL**: `https://stage-1-aol6.onrender.com/api/classify-number`
 - **Method**: `GET`
 - **Query Params**: `number=[integer]`
 
